@@ -36,6 +36,6 @@ build with flutter & web scraper <br>
   </tr> -->
   <tr>
     <td valign="top"><img src="screenshots/7.jpeg" width="250" alt="Finding Matches Page"></td>
-    <td valign="top"><img src="screenshots/8.jpeg" width="250" alt="Chat Page"></td>
+    <td valign="top"><img src="screenshots/8.jpeg" width="250" alt="login"></td>
   </tr>
  </table>
