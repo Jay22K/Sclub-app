@@ -16,9 +16,9 @@ for manga its scrap mangasee123 website
      
   </tr> -->
   <tr>
-    <td valign="top"><img src="screenshots/1.png" width="250" alt="Welcome Page"></td>
-    <td valign="top"><img src="screenshots/2.png" width="250" alt="Login Page"></td>
-    <td valign="top"><img src="screenshots/3.png" width="250" alt="Sign Up Page"></td>
+    <td valign="top"><img src="screenshots/1.jpeg" width="250" alt="Welcome Page"></td>
+    <td valign="top"><img src="screenshots/2.jpeg" width="250" alt="Login Page"></td>
+    <td valign="top"><img src="screenshots/3.jpeg" width="250" alt="Sign Up Page"></td>
   </tr>
 <!--   <tr>
     <td>Personality Page</td>
@@ -26,16 +26,16 @@ for manga its scrap mangasee123 website
     <td>Home Page</td>
   </tr> -->
   <tr>
-    <td valign="top"><img src="screenshots/4.png" width="250" alt="Personality Page"></td>
-    <td valign="top"><img src="screenshots/5.png" width="250" alt="Lifestyle Page"></td>
-    <td valign="top"><img src="screenshots/6.png" width="250" alt="Home Page"></td>
+    <td valign="top"><img src="screenshots/4.jpeg" width="250" alt="Personality Page"></td>
+    <td valign="top"><img src="screenshots/5.jpeg" width="250" alt="Lifestyle Page"></td>
+    <td valign="top"><img src="screenshots/6.jpeg" width="250" alt="Home Page"></td>
   </tr>
 <!--   <tr>
     <td>Finding Matches Page</td>
      <td>Chat Page</td>
   </tr> -->
   <tr>
-    <td valign="top"><img src="screenshots/7.png" width="250" alt="Finding Matches Page"></td>
-    <td valign="top"><img src="screenshots/8.png" width="250" alt="Chat Page"></td>
+    <td valign="top"><img src="screenshots/7.jpeg" width="250" alt="Finding Matches Page"></td>
+    <td valign="top"><img src="screenshots/8.jpeg" width="250" alt="Chat Page"></td>
   </tr>
  </table>
