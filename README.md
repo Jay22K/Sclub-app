@@ -1,9 +1,9 @@
 # Sclub-app
 Sclub comic and manga app
 
-build with flutter & web scraper
-for anime its scrap gogoanime website
-for manga its scrap mangasee123 website
+build with flutter & web scraper <br>
+#for anime its scrap gogoanime website
+#for manga its scrap mangasee123 website
 
 
 ## Screenshots
